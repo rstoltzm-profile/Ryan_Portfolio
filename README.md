@@ -1,4 +1,5 @@
-# Ryan_Portfolio
+# Ryan's Portfolio
+Portfolio with various projects
 
 # Project 1: Hotel Management
 * Web UI that allows a user to manage guests, rooms, and packages for the hotel.
