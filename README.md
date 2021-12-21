@@ -7,5 +7,7 @@ Portfolio with various projects
   * Tables include guest, room, package, guest_to_package, check_in_out
   * Utilizes 1:1, 1:M, and M:M relationships
 
+![](https://github.com/rstoltzm-profile/Ryan_Portfolio/blob/main/images/Hotel_4_Check_In_Out.png)
+
 # Algorithms
 [Minimum Spanning Tree](https://github.com/rstoltzm-profile/Python_Algorithms/tree/main/MST)
